@@ -4,7 +4,11 @@
 
 *Beautify Your Desktop With TheWanderer for Rainmeter*
 
-*Many Of Feature Avaible to Try*
+*Many Of Feature Available to Try*
 
-*
+*Music Player
+
+*Recycle Bin
+
+*And Many More
 
